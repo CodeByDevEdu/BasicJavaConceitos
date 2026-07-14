@@ -88,7 +88,7 @@ Sugestões, Correções E Ideias São Bem-Vindas! Sinta-Se À Vontade Para Abrir
 
 ## 📫 Contato
 
-Se Este Material Te Ajudou Ou Você Quer Trocar Ideia Sobre Java E Back-End, Me Chama No LinkedIn!
+Se Este Material Te Ajudou Ou Você Quer Trocar Ideia Sobre Java E Back-End, Me Chama No LinkedIn! https://www.linkedin.com/in/eduardolopesilveira/
 
 ---
 
